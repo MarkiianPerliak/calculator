@@ -13,7 +13,7 @@ export const Calculator = () => {
 
     return (
         <div className="Calc">
-            <p>{Sum()}</p>
+            <p>{Sum}</p>
         </div>
     )
 }
